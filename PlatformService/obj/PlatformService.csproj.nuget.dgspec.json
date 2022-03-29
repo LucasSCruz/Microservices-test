@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\Micorsserviços\\PlatformService\\PlatformService.csproj": {}
+    "d:\\Projetos\\Micorsserviços\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\Micorsserviços\\PlatformService\\PlatformService.csproj": {
+    "d:\\Projetos\\Micorsserviços\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Micorsserviços\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "d:\\Projetos\\Micorsserviços\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "D:\\Projetos\\Micorsserviços\\PlatformService\\PlatformService.csproj",
+        "projectPath": "d:\\Projetos\\Micorsserviços\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Micorsserviços\\PlatformService\\obj\\",
+        "outputPath": "d:\\Projetos\\Micorsserviços\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,7 +42,7 @@
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[8.0.1, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
